@@ -1,0 +1,2 @@
+# sentimentos
+análise de sentimentos
